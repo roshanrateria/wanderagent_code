@@ -1,0 +1,7 @@
+{
+  "name": "WanderAgent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
