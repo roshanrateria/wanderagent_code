@@ -13,6 +13,7 @@ Click the Video Demo or Download the APK above and experience the app first-hand
 ## 🎯 One-liner
 
 WanderAgent is a production-ready multi-agent travel companion that **discovers places, composes optimized itineraries, navigates in real-time, tracks budgets, and crafts photo memories** — orchestrated by LangChain and using best-in-class LLMs selected per task for precise, deterministic outputs.
+<img width="641" height="395" alt="image" src="https://github.com/user-attachments/assets/0ce38a74-a05b-47c7-822c-ddb320432bf2" />
 
 ---
 
@@ -54,6 +55,7 @@ WanderAgent implements **5 specialized agents** working in tight coordination:
 * **Task-specialized models**: We use the best model per job (planning, budgeting, vision) to maximize accuracy and reliability.
 * **Reproducible demo**: APK & V1 video available — judges can evaluate offline and deterministically.
 * **Cross-domain utility**: Combines discovery, planning, budget control, and visual memories for lasting user value.
+<img width="538" height="774" alt="image" src="https://github.com/user-attachments/assets/c6b130e7-cd8b-4550-9f53-b4ab6e42344a" />
 
 ---
 
@@ -79,27 +81,27 @@ WanderAgent implements **5 specialized agents** working in tight coordination:
 
 ---
 
-## 📈 Market Expectation Value (INR) — Conservative Example
+## 📈 Market Expectation Value (INR) — Projected
 
-Assumptions (conservative):
+Assumptions :
 
 * Target MAU: **5,00,000**
 * Premium conversion: **2%** → 10,000 paying users
 * Premium price: **₹400 / month**
 * Avg booking value: **₹16,000**; booking rate: **5%** of MAU/month; affiliate: **0.5%**
 
-Calculations (digit-by-digit):
+Calculations :
 
 * Premium revenue/month = 10,000 × ₹400 = **₹40,00,000**
 * Bookings/month = 5,00,000 × 0.05 = 25,000 bookings
 * Commission per booking = ₹16,000 × 0.005 = ₹80
 * Affiliate revenue/month = 25,000 × ₹80 = **₹20,00,000**
 
-**Total Monthly Revenue (example):** ₹60,00,000 → **Annual (ARR)** = ₹7,20,00,000 (₹7.2 Cr)
+**Total Monthly Revenue (estimated):** ₹60,00,000 → **Annual (ARR)** = ₹7,20,00,000 (₹7.2 Cr)
 
 ---
 
-## 🧭 Tech Stack (short)
+## 🧭 Tech Stack 
 
 * Frontend: React + Vite + TailwindCSS
 * Mobile/Desktop: Capacitor / Electron (APK available)
