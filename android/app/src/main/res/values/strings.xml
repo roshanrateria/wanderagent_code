@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WanderAgent</string>
+    <string name="title_activity_main">WanderAgent</string>
+    <string name="package_name">com.wanderagent.app</string>
+    <string name="custom_url_scheme">com.wanderagent.app</string>
+</resources>

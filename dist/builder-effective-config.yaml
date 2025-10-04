@@ -1,0 +1,17 @@
+directories:
+  output: dist
+  buildResources: build
+productName: WanderAgent
+appId: com.wanderagent.app
+asar: true
+files:
+  - filter:
+      - electron/**/*
+      - dist/public/**/*
+      - package.json
+      - '!server/**'
+      - '!android/**'
+      - '!scripts/**'
+      - '!**/*.ts'
+      - '!**/*.map'
+electronVersion: 27.3.11

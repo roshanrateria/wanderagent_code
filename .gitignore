@@ -1,0 +1,7 @@
+node_modules
+.env
+b.py
+*.txt
+*.apk
+*.exe
+*.asar
