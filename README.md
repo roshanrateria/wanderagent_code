@@ -114,7 +114,7 @@ Calculations :
 
 ## 🎬 Demo Walkthrough (reproducible)
 
-**60s live demo (recommended):**
+**Live demo :**
 
 1. Open the APK or run `npm run dev` and open the app.
 2. Choose interests (e.g., Culture, History), duration (1 day), and set a budget.
@@ -144,4 +144,4 @@ Calculations :
 
 MIT License
 
-**Built by Team ROAR — designed for real-world travel problems, solved with task-specialized models for high reliability.**
+**Built by Roshan Rateria — designed for real-world travel problems, solved with task-specialized models for high reliability.**
